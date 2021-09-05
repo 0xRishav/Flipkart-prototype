@@ -1,0 +1,101 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Almond Toe Court Shoes, Patent Black",
+      "category": "Womens",
+      "price": 99.0,
+      "stock": 5,
+      "size": "S"
+    },
+    {
+      "id": 2,
+      "name": "Suede Shoes, Blue",
+      "category": "Womens",
+      "price": 42.0,
+      "stock": 4,
+      "size": "M"
+    },
+    {
+      "id": 3,
+      "name": "Leather Driver Saddle Loafers, Tan",
+      "category": "Mens",
+      "price": 34.0,
+      "stock": 12,
+      "size": "L"
+    },
+    {
+      "id": 4,
+      "name": "Flip Flops, Red",
+      "category": "Mens",
+      "price": 19.0,
+      "stock": 6,
+      "size": "S"
+    },
+    {
+      "id": 5,
+      "name": "Flip Flops, Blue",
+      "category": "Mens",
+      "price": 19.0,
+      "stock": 0,
+      "size": "M"
+    },
+    {
+      "id": 6,
+      "name": "Gold Button Cardigan, Black",
+      "category": "Womens",
+      "price": 167.0,
+      "stock": 6,
+      "size": "L"
+    },
+    {
+      "id": 7,
+      "name": "Cotton Shorts, Medium Red",
+      "category": "Womens",
+      "price": 30.0,
+      "stock": 5,
+      "size": "S"
+    },
+    {
+      "id": 8,
+      "name": "Fine Stripe Short Sleeve￼Shirt, Grey",
+      "category": "Mens",
+      "price": 49.99,
+      "stock": 9,
+      "size": "M"
+    },
+    {
+      "id": 9,
+      "name": "Fine Stripe Short Sleeve￼Shirt, Green",
+      "category": "Mens",
+      "price": 49.99,
+      "offer": 39.99,
+      "stock": 9,
+      "size": "L"
+    },
+    {
+      "id": 10,
+      "name": "Sharkskin Waistcoat, Charcoal",
+      "category": "Mens",
+      "price": 75.0,
+      "stock": 2,
+      "size": "S"
+    },
+    {
+      "id": 11,
+      "name": "Lightweight Patch Pocket￼Blazer, Deer",
+      "category": "Mens",
+      "price": 175.5,
+      "stock": 1,
+      "size": "M"
+    },
+    {
+      "id": 12,
+      "name": "Bird Print Dress, Black",
+      "category": "Womens",
+      "price": 270.0,
+      "stock": 10,
+      "size": "L"
+    }
+  ]
+}
